@@ -1,0 +1,65 @@
+.para{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 28px;
+}
+.para:hover{
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+.para2{
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#image{
+    text-align: center;
+    float: left;
+    width: 50%;
+}
+.col-1{
+
+    width: 50%;
+}
+
+body{
+    background-color:#86b7fe;
+}
+.para3{
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+    font-size: 28px;
+}
+
+.navbar{
+    background-color: rgb(149 189 229) !important;
+}
+.image-fluid:hover{
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+}
+.mn{
+    float:right;
+    width: 350px;
+    height:425px;
+}
+hr.new1{
+    border:3px dotted black;
+}
+hr.new2{
+    border:2px dotted black
+}
+.img2{
+    float:right;
+    width: 450px;
+    height: 500px;
+}
+.para4{
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
